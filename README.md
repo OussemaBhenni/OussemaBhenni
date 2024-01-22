@@ -1,69 +1,79 @@
-<p align="center" >
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!&center=true&size=30">
-  </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+Your+Grace!&center=true&size=30">
+</p>
 
-<h1 align="center">Greetings <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px">, I'm [Your Name]</h1>
+<h1 align="center">Greetings, Your Grace! I am Oussema Ben Henni</h1>
 
-   <h3 align="center"> 🌟 An Aspiring Web Developer from Tunisia 🌟</h3>
+<h3 align="center">🌟 Aspiring to become a Cybersecurity Engineer 🌟</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[Your GitHub Username]&label=Profile%20views&color=0e75b6&style=flat" alt="[Your GitHub Username]" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=oussema-ben-henni&label=Profile%20views&color=0e75b6&style=flat" alt="oussema-ben-henni" /> 
+</p>
 
 <div align="center">
-<img src="[Your Cover Image URL]" width="900">
+  <img src="[Your Cover Image URL]" width="900">
 </div>
 
 ## 🙋‍♂️ About Me
 
-<br>
+- 🎓 Currently in the third year of studies at the Institut Supérieur des Etudes Technologiques de Radès.
+- 💼 Completed an internship at Sopra Banking, working with Spring Boot and React.
+- 🌐 Experienced in utilizing frameworks and libraries such as Angular, React, Symfony, SpringBoot, Node.js, and Flutter.
+- 🛠 Proficient in working with databases like Oracle, MongoDB, MySql, and SQLite.
+- 💻 Skilled in programming languages including JavaScript, Java, PHP, TypeScript, C, and Python.
+- 🌐 Fluent in Arabic, B2 level in French and English, basic knowledge of Italian.
+- 🌟 Passionate about technology, cybersecurity, and continuous learning.
 
-- 🥋 Passionate student with a keen interest in Programming and Problem-Solving.
-- 🔭 Currently engaged in [Your Current Endeavor/Internship].
-- 📘 Learning and mastering [Languages/Frameworks you are currently focused on].
-- 📫 Reach me at [Your Email Address].
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[Your Twitter Profile URL]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Your Twitter Username]" height="30" width="40" /></a>
-<a href="[Your LinkedIn Profile URL]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Your LinkedIn Username]" height="30" width="40" /></a>
-<a href="[Your Facebook Profile URL]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="[Your Facebook Username]" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/oussemabenhenni" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="oussema-ben-henni" height="30" width="40" />
+  </a>
+  <a href="https://github.com/OussemaBhenni" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="OussemaBhenni" height="30" width="40" />
+  </a>
 </p>
 
-## 🌐 Web Development Projects
+## 🚀 Education & Experience
 
-| Project List | Languages |
-| --- | :---: |
-| [**🔗 Project 1**](Project 1 URL) | [Languages Used] |
-| [**🔗 Project 2**](Project 2 URL) | [Languages Used] |
-| [**🔗 Project 3**](Project 3 URL) | [Languages Used] |
-| [**🔗 Project 4**](Project 4 URL) | [Languages Used] |
+### Education
 
-## 👨‍💻 Software Development Projects
+- **Institut Supérieur des Etudes Technologiques de Radès**
+  - *Bachelor's in Applied Computer Science*
+  - 2021-2024 (Expected)
 
-| Project List | Languages |
-| --- | :---: |
-| [**🔗 Project 1**](Project 1 URL) | [Languages Used] |
+### Experience
 
-## 🚀 Languages:
+- **Sopra Banking**
+  - *Internship - Jan-Feb 2023*
+  - Utilized Spring Boot and React for project development.
 
-[Include badges and logos for the languages you are proficient in]
+- **Food4Futur**
+  - *Summer Internship - Jul-Sep 2023*
+  - Developed a web application Dashboard.
 
-## 🔮 Tools:
+- **Sopra Banking**
+  - *Internship - Jul-Sep 2023*
+  - Used JAXB in Java for manipulating XML streams.
 
-[Include badges and logos for the tools you use]
+## 🔧 Skills
 
-## ⚡ GitHub Stats & Languages
+### Frameworks and Libraries
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=[Your GitHub Username]&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Angular - React - Symfony - SpringBoot - Node.js - Flutter
 
-## 📈 GitHub Contribution Graph
+### Databases
 
-[Include the contribution graph. You can use the GitHub Activity Graph tool]
+Oracle - MongoDB - MySql - SQLite
 
-## Listen with me on Spotify
-<div align="center">
-  <a href="[Your Spotify Profile URL]" title="Listen with me on Spotify">
-    <img src="[Your Spotify Profile URL]" alt="Listen with me on Spotify" />
-  </a>
-</div>
+### Programming Languages
+
+JavaScript - Java - PHP - TypeScript - C - Python
+
+## 🌐 Interests
+
+- TV Series
+- Sports
+- Gaming
+
+If you have any specific requests or topics you'd like to discuss, feel free to let me know
