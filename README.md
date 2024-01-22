@@ -36,21 +36,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="OussemaBhenni" height="30" width="40" />
   </a>
 </p>
-<!--
 
-## 🌐 Web Development Projects
-
-| Project List | Languages |
-| --- | :---: |
-| [**🔗 Simon game**](https://github.com/Oussemasahbeni/Simon-Game-Challenge) | HTML, CSS, JS |
-| [**🔗 Secrets-Authentication-practice**](https://github.com/Oussemasahbeni/Authenticating-and-security-with-mongoDB-and-expressJs) | MongoDB, Express.js, Passport, Google Auth |
-| [**🔗 Rock-paper-scissors**](https://github.com/Oussemasahbeni/rps-game) | HTML, CSS, JS |
-| [**🔗 Workout-Buddy**](https://github.com/Oussemasahbeni/Workout-Tracker-mern-project) | React, ExpressJs, MongoDB |
-| [**🔗 iset-rades-website**](https://github.com/Oussemasahbeni/IsetRades) | TS, BOOTSTRAP, PHP, ANGULAR|
-| [**🔗 Weather site**](https://github.com/Oussemasahbeni/Weather-Website) | ANGULAR, API |
-| [**🔗 todo List**](https://github.com/Oussemasahbeni/Todo-app-with-expressJS) | expressJS, EJS |
-
--->
 
 ## 🚀 Languages:
 
@@ -77,4 +63,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OussemaBhenni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<!--
 
+## 🌐 Web Development Projects
+
+| Project List | Languages |
+| --- | :---: |
+| [**🔗 Simon game**](https://github.com/Oussemasahbeni/Simon-Game-Challenge) | HTML, CSS, JS |
+| [**🔗 Secrets-Authentication-practice**](https://github.com/Oussemasahbeni/Authenticating-and-security-with-mongoDB-and-expressJs) | MongoDB, Express.js, Passport, Google Auth |
+| [**🔗 Rock-paper-scissors**](https://github.com/Oussemasahbeni/rps-game) | HTML, CSS, JS |
+| [**🔗 Workout-Buddy**](https://github.com/Oussemasahbeni/Workout-Tracker-mern-project) | React, ExpressJs, MongoDB |
+| [**🔗 iset-rades-website**](https://github.com/Oussemasahbeni/IsetRades) | TS, BOOTSTRAP, PHP, ANGULAR|
+| [**🔗 Weather site**](https://github.com/Oussemasahbeni/Weather-Website) | ANGULAR, API |
+| [**🔗 todo List**](https://github.com/Oussemasahbeni/Todo-app-with-expressJS) | expressJS, EJS |
+
+-->
