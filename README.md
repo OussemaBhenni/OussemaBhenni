@@ -81,19 +81,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OussemaBhenni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-## 📈 GitHub Contribution Graph
 
-<div align="center">
-	 <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
-	  <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=OussemaBhenni&theme=tokyo-night&radius=16">
-  </a>
-</div>
-
-<br clear="both">
-
-## Listen with me in Spotify
-<div align="center">
-  <a href="[Your Spotify Profile URL]" title="Listen with me on Spotify">
-    <img src="[Your Spotify Badge URL]" alt="Listen with me on Spotify" />
-  </a>
-</div>
