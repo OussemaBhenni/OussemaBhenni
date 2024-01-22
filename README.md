@@ -50,11 +50,7 @@
 | [**🔗 Weather site**](https://github.com/Oussemasahbeni/Weather-Website) | ANGULAR, API |
 | [**🔗 todo List**](https://github.com/Oussemasahbeni/Todo-app-with-expressJS) | expressJS, EJS |
 
-## 👨‍💻 Software Development Projects
 
-| Project List | Languages |
-| --- | :---: |
-| [**🔗 JAVAFX Crud**](https://github.com/Oussemasahbeni/JavaFXCrud) | JAVAFX |
 
 ## 🚀 Languages:
 
