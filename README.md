@@ -36,7 +36,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="OussemaBhenni" height="30" width="40" />
   </a>
 </p>
-
+<!--
 
 ## 🌐 Web Development Projects
 
@@ -50,7 +50,7 @@
 | [**🔗 Weather site**](https://github.com/Oussemasahbeni/Weather-Website) | ANGULAR, API |
 | [**🔗 todo List**](https://github.com/Oussemasahbeni/Todo-app-with-expressJS) | expressJS, EJS |
 
-
+-->
 
 ## 🚀 Languages:
 
