@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="560">
 </div>
 
 ## 🙋‍♂️ About Me
@@ -24,6 +24,28 @@
 - 🌐 Fluent in Arabic, B2 level in French and English, basic knowledge of Italian.
 - 🌟 Passionate about technology, cybersecurity, and continuous learning.
 
+## 🚀 Education & Experience
+
+### Education
+
+- **Institut Supérieur des Etudes Technologiques de Radès**
+  - *Bachelor's in Applied Computer Science*
+  - 2021-2024 (Expected)
+
+### Experience
+
+- **Sopra Banking**
+  - *Internship - Jan-Feb 2023*
+  - Utilized Spring Boot and React for project development.
+
+- **Food4Futur**
+  - *Summer Internship - Jul-Sep 2023*
+  - Developed a web application Dashboard.
+
+- **Sopra Banking**
+  - *Internship - Jul-Sep 2023*
+  - Used JAXB in Java for manipulating XML streams.
+  - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/BenhenniOussema" target="blank">
