@@ -45,7 +45,7 @@
 - **Sopra Banking**
   - *Internship - Jul-Sep 2023*
   - Used JAXB in Java for manipulating XML streams.
-  - 
+    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/BenhenniOussema" target="blank">
